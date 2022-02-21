@@ -1,0 +1,1 @@
+curl -sSL https://raw.githubusercontent.com/AucuneInspiexe/sh-download/main/client-install-raspberry-pi.sh?token=GHSAT0AAAAAABRPTO66MXJLKRABATHNEBE6YQTOBSA | bash
